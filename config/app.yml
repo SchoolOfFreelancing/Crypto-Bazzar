@@ -1,6 +1,6 @@
 app:
   name: "Microkube"
-  domain: "app.local"
+  domain: "bitcoinmarket.pro"
   subdomain: "www"
 ssl:
   enabled: true
@@ -8,12 +8,12 @@ ssl:
 images:
   peatio: dreadedzombie/peatio:2.1.20
   barong: rubykube/barong:2.0.51
-  frontend: rubykube/mikroapp:0.1.5
+  frontend: bxc/ui:latest
   tower: rubykube/tower:0.1.17
   postmaster: quay.io/openware/postmaster:0.0.3
   arke: rubykube/arke:0.1.5
 vendor:
-  frontend: https://github.com/rubykube/mikroapp.git
+  frontend: https://poseidon_j@bitbucket.org/poseidon_j/ui-2.0.git
 storage:
   provider: "Google"
   bucketName: "microkube-barong-docs-bucket"
