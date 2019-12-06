@@ -1,4 +1,4 @@
-# Install MicroKube For version peatio 2.3.11  in Ubuntu 18.04 Documented by Masum ~ telegram id: @LinuxGun
+# Install Crypto Bazzar For version peatio 2.3.11  in Ubuntu 18.04 Documented by Masum ~ telegram id: @LinuxGun
 
 ## Step 1: Install Docker
 
