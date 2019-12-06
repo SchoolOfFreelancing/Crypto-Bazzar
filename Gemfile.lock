@@ -41,7 +41,7 @@ DEPENDENCIES
   bump
   faraday
   jwt
-  puma
+  puma (>= 3.12.2)
   rack
   rake
   rspec
